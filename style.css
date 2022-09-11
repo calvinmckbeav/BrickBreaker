@@ -1,0 +1,32 @@
+.grid {
+  position:absolute;
+  width: 1000px;
+  height:800px;
+  border: solid black 2px;
+  margin-left: 450px;
+}
+
+.brick {
+  position:absolute;
+  width:80px;
+  height:30px;
+}
+
+.user {
+  position:absolute;
+  width:130px;
+  height:30px;
+  background-color: black;
+}
+
+.ball {
+  position:absolute;
+  width:20px;
+  height:20px;
+  border-radius: 10px;
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+}
